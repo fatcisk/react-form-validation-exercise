@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-form-validation-exercise/static/css/main.364d1439.css",
+    "main.js": "/react-form-validation-exercise/static/js/main.e8855388.js",
+    "static/js/787.a968c386.chunk.js": "/react-form-validation-exercise/static/js/787.a968c386.chunk.js",
+    "index.html": "/react-form-validation-exercise/index.html",
+    "main.364d1439.css.map": "/react-form-validation-exercise/static/css/main.364d1439.css.map",
+    "main.e8855388.js.map": "/react-form-validation-exercise/static/js/main.e8855388.js.map",
+    "787.a968c386.chunk.js.map": "/react-form-validation-exercise/static/js/787.a968c386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364d1439.css",
+    "static/js/main.e8855388.js"
+  ]
+}
