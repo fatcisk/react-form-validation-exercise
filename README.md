@@ -1,6 +1,6 @@
 # LIVE DEMO ON GITHUB PAGES: https://uzayapiu.github.io/react-form-validation-exercise/
 
-![alt text](linkhere?raw=true)
+![alt text](https://github.com/uzayapiu/react-form-validation-exercise/blob/main/Screenshot%202023-02-25%20at%2011.43.07.png?raw=true)
 
 
 # Getting Started with Create React App
